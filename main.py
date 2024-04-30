@@ -23,3 +23,5 @@ from models import *
 # eda = Plov.select().where(Plov.email**'%@gmail.com')
 # for user in eda:
 #     print(user.name, user.email, user.parol)
+
+print('Assalamu Aleykum')
